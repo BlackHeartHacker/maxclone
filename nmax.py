@@ -641,13 +641,6 @@ def pilih_super():
 	print """
  
     
- Checkpoint ID Open After 7 Days
-•\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....max....... \033[1;95m :
-•\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
-                Facebook
-              \033[1;91m max""
-	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
 
