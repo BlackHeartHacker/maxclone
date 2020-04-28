@@ -634,22 +634,19 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackTiger\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mmax033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•--- MAX --•◈•---»" #Dev:MAX
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 nmax.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  
     
-                                                                    
-
- 
-         Checkpoint ID Open After 7 Days
+ Checkpoint ID Open After 7 Days
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....blackhearthacker....... \033[1;95m :
+: \033[1;91m ....max....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
-              \033[1;91m max"""
+              \033[1;91m max""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
